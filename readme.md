@@ -20,6 +20,12 @@ To advocate for and demonstrate the advantages of GraphQL to stakeholders within
 - **Query Efficiency:** Comparison with REST APIs showing significant reduction in JSON response size.
 - **Scalability:** Flexible schema design supporting future extension without breaking existing clients.
 
+- Graphql response:
+![Graphql response](https://github.com/Dhaniesh/ielts-graphql-api/blob/main/graphql-response.png)
+
+- Rest API response:
+![Rest response](https://github.com/Dhaniesh/ielts-graphql-api/blob/main/rest-api-response.png)
+
 ## 📦 Setup
 
 1. Clone the repository:
